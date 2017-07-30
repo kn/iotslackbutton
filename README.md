@@ -1,4 +1,4 @@
-## AWS IOT Slack Button
+## AWS IoT Slack Button
 
 An AWS lambda handler that sends a slack message when [the AWS IoT button](https://aws.amazon.com/iotbutton/) is pressed.
 
